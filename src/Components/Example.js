@@ -6,8 +6,9 @@ function Example() {
         <div>
         <p> Số lần click { count }times </p> 
         <button onClick = {() => setcount(count + 2) }> Click </button>
-        </div>
         <p> Anh Long dep zai </p>
+        </div>
+
     );
 };
 
